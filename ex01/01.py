@@ -1,4 +1,4 @@
 # -*- coding: utf-8 -*-
-str = u"パタトクカシー"
+str = u"パタトクカシーー"
 result = str[::2]
 print result
